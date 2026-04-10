@@ -1,0 +1,434 @@
+{
+  "id": "The Heart of Darkness",
+  "rewards": {
+    "qp": 2,
+    "xp": [
+      {
+        "name": "Mining",
+        "xp": 8000
+      },
+      {
+        "name": "Thieving",
+        "xp": 8000
+      },
+      {
+        "name": "Slayer",
+        "xp": 8000
+      },
+      {
+        "name": "Agility",
+        "xp": 8000
+      }
+    ],
+    "lamp": null
+  },
+  "requirements": {
+    "skills": [
+      {
+        "name": "Mining",
+        "level": 55
+      },
+      {
+        "name": "Thieving",
+        "level": 48
+      },
+      {
+        "name": "Slayer",
+        "level": 48
+      },
+      {
+        "name": "Agility",
+        "level": 46
+      }
+    ],
+    "quests": [
+      "Twilights Promise"
+    ],
+    "qp": 0,
+    "items": []
+  },
+  "steps": [
+    {
+      "panelName": "Starting off",
+      "steps": [
+        {
+          "description": "Talk to Prince Itzla Arkan at the Teomat. You can travel here using Renu the quetzal.",
+          "worldpoint": {
+            "x": 1454,
+            "y": 3173,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Travel on Renu to the Quetzacalli Gorge.",
+          "worldpoint": {
+            "x": 1437,
+            "y": 3169,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to the Bartender in the pub in the Gorge.",
+          "worldpoint": {
+            "x": 1499,
+            "y": 3224,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Rest in the bed in the south-eastern room of the pub.",
+          "worldpoint": {
+            "x": 1505,
+            "y": 3225,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to Prince Itzla Arkan in the bedroom.",
+          "worldpoint": {
+            "x": 1505,
+            "y": 3223,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to the shopkeeper east of the pub.",
+          "worldpoint": {
+            "x": 1517,
+            "y": 3223,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Return to Prince Itzla Arkan in the bedroom.",
+          "worldpoint": {
+            "x": 1505,
+            "y": 3223,
+            "plane": 0
+          }
+        }
+      ]
+    },
+    {
+      "panelName": "The Tower",
+      "steps": [
+        {
+          "description": "Travel past the proudspire to the east to the Tower of Ascension. Talk to the prince there.",
+          "worldpoint": {
+            "x": 1656,
+            "y": 3219,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Before going to the tower, build the landing site in the north of the salvager overlook.",
+          "worldpoint": {
+            "x": 1613,
+            "y": 3302,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to the prince at the Tower of Ascension to the south-east of the salvager overlook.",
+          "worldpoint": {
+            "x": 1656,
+            "y": 3219,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to Felius outside the tower.",
+          "worldpoint": {
+            "x": 1659,
+            "y": 3224,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to Caritta outside the tower.",
+          "worldpoint": {
+            "x": 1659,
+            "y": 3224,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to Sergius outside the tower.",
+          "worldpoint": {
+            "x": 1659,
+            "y": 3224,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to Nova outside the tower.",
+          "worldpoint": {
+            "x": 1659,
+            "y": 3224,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to the prince at the Tower of Ascension to the south-east of the salvager overlook again.",
+          "worldpoint": {
+            "x": 1656,
+            "y": 3219,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to Forebearer Janus inside the tower.",
+          "worldpoint": {
+            "x": 1638,
+            "y": 3224,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Climb up the staircase in the tower to the first challenge.",
+          "worldpoint": {
+            "x": 1635,
+            "y": 3221,
+            "plane": 0
+          }
+        }
+      ]
+    },
+    {
+      "panelName": "First Trial",
+      "steps": []
+    },
+    {
+      "panelName": "Second Trial",
+      "steps": [
+        {
+          "description": "Talk to Forebearer Janus, ready to fight.",
+          "worldpoint": {
+            "x": 1644,
+            "y": 3225,
+            "plane": 2
+          }
+        },
+        {
+          "description": "Defeat the waves of enemies. Use Protect from Melee. You can heal yourself and the prince using bandages from the chests in the area.",
+          "worldpoint": {
+            "x": 1644,
+            "y": 3225,
+            "plane": 2
+          }
+        },
+        {
+          "description": "Talk to Forebearer Janus again to progress to the third trial.",
+          "worldpoint": {
+            "x": 1644,
+            "y": 3225,
+            "plane": 2
+          }
+        }
+      ]
+    },
+    {
+      "panelName": "Third Trial",
+      "steps": [
+        {
+          "description": "Talk to the prince in the room.",
+          "worldpoint": {
+            "x": 1638,
+            "y": 3218,
+            "plane": 2
+          }
+        },
+        {
+          "description": "Talk to Janus to go to the final trial, ready for a fight.",
+          "worldpoint": {
+            "x": 1640,
+            "y": 3226,
+            "plane": 2
+          }
+        }
+      ]
+    },
+    {
+      "panelName": "Final Trial",
+      "steps": [
+        {
+          "description": "Defeat the prince. Use Protect from Melee."
+        },
+        {
+          "description": "Talk to Janus to wrap up the final trial.",
+          "worldpoint": {
+            "x": 1640,
+            "y": 3226,
+            "plane": 2
+          }
+        }
+      ]
+    },
+    {
+      "panelName": "Cult",
+      "steps": [
+        {
+          "description": "Talk to Janus at the bottom of the tower.",
+          "worldpoint": {
+            "x": 1640,
+            "y": 3226,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Search the chest in the south of the tower for some emissary robes.",
+          "worldpoint": {
+            "x": 1638,
+            "y": 3217,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to the prince to have him follow you.",
+          "worldpoint": {
+            "x": 1638,
+            "y": 3222,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Enter the temple to the east of the tower for a cutscene.",
+          "worldpoint": {
+            "x": 1687,
+            "y": 3247,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to the prince in the temple.",
+          "worldpoint": {
+            "x": 1688,
+            "y": 3247,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to Forebearer Fides in the temple.",
+          "worldpoint": {
+            "x": 1685,
+            "y": 3247,
+            "plane": 0
+          }
+        }
+      ]
+    },
+    {
+      "panelName": "The Old Ones",
+      "steps": [
+        {
+          "description": "Go down the stairs south-east of the temple. Be equipped for a fight.",
+          "worldpoint": {
+            "x": 1693,
+            "y": 3231,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Take a pickaxe from the nearby barrel.",
+          "worldpoint": {
+            "x": 1696,
+            "y": 9633,
+            "plane": 2
+          }
+        },
+        {
+          "description": "Mine the nearby rocks.",
+          "worldpoint": {
+            "x": 1690,
+            "y": 9634,
+            "plane": 2
+          }
+        },
+        {
+          "description": "Pull the lever in the south-east of the area. Make sure to avoid the wall spikes.",
+          "worldpoint": {
+            "x": 1695,
+            "y": 9604,
+            "plane": 2
+          }
+        },
+        {
+          "description": "Climb down the ledge east of the lever.",
+          "worldpoint": {
+            "x": 1701,
+            "y": 9607,
+            "plane": 2
+          }
+        },
+        {
+          "description": "Climb across the ice ledge to the north. Avoid the floor spike traps on the way.",
+          "worldpoint": {
+            "x": 1714,
+            "y": 9632,
+            "plane": 1
+          }
+        },
+        {
+          "description": "Pull the lever in the north-east room. Avoid the floor traps.",
+          "worldpoint": {
+            "x": 1711,
+            "y": 9660,
+            "plane": 1
+          }
+        },
+        {
+          "description": "Jump over the frozen platforms to the north-west, and climb down the ledge there.",
+          "worldpoint": {
+            "x": 1686,
+            "y": 9659,
+            "plane": 1
+          }
+        },
+        {
+          "description": "Pull the third lever in the north-west room.",
+          "worldpoint": {
+            "x": 1671,
+            "y": 9661,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Pull the final lever in the south-west, near the gate.",
+          "worldpoint": {
+            "x": 1662,
+            "y": 9636,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Pull the chain to unlock a shortcut.",
+          "worldpoint": {
+            "x": 1670,
+            "y": 9631,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Enter the door to the west, ready for the boss.",
+          "worldpoint": {
+            "x": 1601,
+            "y": 9631,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Defeat Amoxliatl. Use Protect from Magic."
+        },
+        {
+          "description": "Talk to Servius, Teokan of Ralos in the palace in Civitas illa Fortis to complete the quest.",
+          "worldpoint": {
+            "x": 1681,
+            "y": 3168,
+            "plane": 0
+          }
+        }
+      ]
+    }
+  ],
+  "activeStep": 0
+}
