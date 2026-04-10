@@ -1,0 +1,252 @@
+{
+  "id": "Holy Grail",
+  "rewards": {
+    "qp": 2,
+    "xp": [
+      {
+        "name": "Prayer",
+        "xp": 11000
+      },
+      {
+        "name": "Defence",
+        "xp": 15300
+      }
+    ],
+    "lamp": null
+  },
+  "requirements": {
+    "skills": [
+      {
+        "name": "Attack",
+        "level": 20
+      }
+    ],
+    "quests": [
+      "Merlins Crystal"
+    ],
+    "qp": 0,
+    "items": []
+  },
+  "steps": [
+    {
+      "panelName": "Starting off",
+      "steps": [
+        {
+          "description": "Talk to King Arthur in Camelot Castle to start the quest.",
+          "worldpoint": {
+            "x": 2763,
+            "y": 3513,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Go upstairs and talk to Merlin.",
+          "worldpoint": {
+            "x": 2763,
+            "y": 3505,
+            "plane": 1
+          }
+        }
+      ]
+    },
+    {
+      "panelName": "Getting the Napkin",
+      "steps": [
+        {
+          "description": "Head to Port Sarim and talk to a monk of Entrana for passage to Entrana. Bank all combat gear.",
+          "worldpoint": {
+            "x": 3048,
+            "y": 3235,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to the High Priest on Entrana.",
+          "worldpoint": {
+            "x": 2851,
+            "y": 3348,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to Galahad in his house west of McGrubor's Woods.",
+          "worldpoint": {
+            "x": 2612,
+            "y": 3475,
+            "plane": 0
+          }
+        }
+      ]
+    },
+    {
+      "panelName": "Getting the Magic Whistles",
+      "steps": [
+        {
+          "description": "Travel to Draynor Manor.",
+          "worldpoint": {
+            "x": 3108,
+            "y": 3350,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Enter Draynor Manor."
+        },
+        {
+          "description": "Go up the stairs in Draynor Manor.",
+          "worldpoint": {
+            "x": 3109,
+            "y": 3364,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Go up the second set of stairs in Draynor Manor.",
+          "worldpoint": {
+            "x": 3105,
+            "y": 3363,
+            "plane": 1
+          }
+        },
+        {
+          "description": "Open the door to the Magic Whistles."
+        },
+        {
+          "description": "Pickup 2 Magic Whistles.",
+          "worldpoint": {
+            "x": 3107,
+            "y": 3359,
+            "plane": 2
+          }
+        }
+      ]
+    },
+    {
+      "panelName": "Fisher King Realm Pt.1",
+      "steps": [
+        {
+          "description": "Go to the tower on Karamja near gold mine west of Brimhaven.",
+          "worldpoint": {
+            "x": 2742,
+            "y": 3236,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Blow the whistle once you are underneath of the tower."
+        },
+        {
+          "description": "Kill the Black Knight Titan with Excalibur. Melee is recommended as it has high Ranged and Magic defence. (You only need to deal the killing blow with excalibur!)"
+        },
+        {
+          "description": "Talk to the fisherman by the river. After talking to him walk West to the castle.",
+          "worldpoint": {
+            "x": 2798,
+            "y": 4706,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Pickup the grail bell outside of the castle. If it's not there, return to the fisherman and finish the conversation.",
+          "worldpoint": {
+            "x": 2762,
+            "y": 4694,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Ring the grail bell while standing directly north of the broken castle wall (Where you picked up the bell)",
+          "worldpoint": {
+            "x": 2762,
+            "y": 4694,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Go up the stairs inside of the castle.",
+          "worldpoint": {
+            "x": 2762,
+            "y": 4681,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Talk to The Fisher King."
+        }
+      ]
+    },
+    {
+      "panelName": "Finding Percival",
+      "steps": [
+        {
+          "description": "Return to Camelot and talk to King Arthur.",
+          "worldpoint": {
+            "x": 2763,
+            "y": 3513,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Travel to the Goblin Village, north of Falador. Right click and open the sacks.",
+          "worldpoint": {
+            "x": 2962,
+            "y": 3506,
+            "plane": 0
+          }
+        }
+      ]
+    },
+    {
+      "panelName": "Fisher King Realm Pt.2",
+      "steps": [
+        {
+          "description": "Go to the tower on Karamja near gold mine west of Brimhaven.",
+          "worldpoint": {
+            "x": 2742,
+            "y": 3236,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Blow the whistle once you are underneath of the tower."
+        },
+        {
+          "description": "Open the door to the castle and enter."
+        },
+        {
+          "description": "Go up the stairs to the east.",
+          "worldpoint": {
+            "x": 2649,
+            "y": 4684,
+            "plane": 0
+          }
+        },
+        {
+          "description": "Climb the ladder on the second floor."
+        },
+        {
+          "description": "Pickup the Holy grail.",
+          "worldpoint": {
+            "x": 2649,
+            "y": 4684,
+            "plane": 2
+          }
+        }
+      ]
+    },
+    {
+      "panelName": "Finishing up",
+      "steps": [
+        {
+          "description": "",
+          "worldpoint": {
+            "x": 2742,
+            "y": 3236,
+            "plane": 0
+          }
+        }
+      ]
+    }
+  ],
+  "activeStep": 0
+}
